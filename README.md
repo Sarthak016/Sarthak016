@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/background/20210714/original/pngtree-data-science-background-banner-template-design-picture-image_1246228.jpg)]
+[![MasterHead](https://www.acuitykp.com/wp-content/uploads/2017/05/Solution-Page-Banner-2.jpg)]
 <h1 align="center">Hi 👋, I'm Sarthak Arora</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40b642de6b2762a2d894c4dee015dceb035a5958c07e6fe0f441d0adf07e5218/68747470733a2f2f7777772e636c6f7564796d6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f646174612d616e616c79746963732d73657276696365732d696d6167652e676966">
@@ -7,10 +7,12 @@
 
 - 💬 Ask me about **Python , SQL and Machine Learning**
 
+- 🔍 Looking for a job in **Data Science Field**
+
 - 📫 How to reach me **sarthak1611@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
