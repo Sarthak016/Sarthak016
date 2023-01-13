@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cs.duke.edu%2Fresearch%2Fdatascience&psig=AOvVaw3UCCVUhvZMtS9OpEmPgGp6&ust=1673685984978000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDPk6eUxPwCFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Sarthak Arora</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudyml.com%2Fblog%2Fdistinction-between-data-science-ml-and-artificial-intelligence%2F&psig=AOvVaw3AO2pIi-DYduyMeYCEUz6W&ust=1673685690807000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiI3ZqTxPwCFQAAAAAdAAAAABAZ"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudyml.com%2Fblog%2Fdistinction-between-data-science-ml-and-artificial-intelligence%2F&psig=AOvVaw3AO2pIi-DYduyMeYCEUz6W&ust=1673685690807000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiI3ZqTxPwCFQAAAAAdAAAAABAZ">
 
 - 🌱 I’m currently gaining knowledge **on Data Science**
 
