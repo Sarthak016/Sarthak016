@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cs.duke.edu%2Fresearch%2Fdatascience&psig=AOvVaw3UCCVUhvZMtS9OpEmPgGp6&ust=1673685984978000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDPk6eUxPwCFQAAAAAdAAAAABAE)]
+[![MasterHead](https://png.pngtree.com/background/20210714/original/pngtree-data-science-background-banner-template-design-picture-image_1246228.jpg)]
 <h1 align="center">Hi 👋, I'm Sarthak Arora</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudyml.com%2Fblog%2Fdistinction-between-data-science-ml-and-artificial-intelligence%2F&psig=AOvVaw3AO2pIi-DYduyMeYCEUz6W&ust=1673685690807000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiI3ZqTxPwCFQAAAAAdAAAAABAZ">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40b642de6b2762a2d894c4dee015dceb035a5958c07e6fe0f441d0adf07e5218/68747470733a2f2f7777772e636c6f7564796d6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f646174612d616e616c79746963732d73657276696365732d696d6167652e676966">
 
 - 🌱 I’m currently gaining knowledge **on Data Science**
 
