@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently gaining knowledge **on Data Engineering and AI**
 
-- 💬 Ask me about **Python , SQL and Machine Learning**
+- 💬 Ask me about **Python , SQL , Power BI , Gen AI , Prompt Engineering**
 
-- 🔍 Looking for a job in **Data Science Field**
+- 🔍 Looking for a job in **Data Analyst , Data Engineering or AI Related Field**
 
 - 📫 How to reach me **sarthak1611@gmail.com**
 
